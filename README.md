@@ -1,4 +1,6 @@
-==============中文部分==============
+The English version will be uploaded after development and refinement.
+
+==============chines中文部分==============
 
 AI助手交互式命令行MCP服务器，支持AI输入并执行cmd终端命令。
 通过Python运行本地服务器供AI访问。
