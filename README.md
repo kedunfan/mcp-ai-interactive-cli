@@ -1,4 +1,9 @@
 The English version will be uploaded after development and refinement.
+实现方式为时间等待然后截取内容给ai
+The implementation method is to wait for a period of time, then capture the content and provide it to the AI.
+
+
+
 
 ==============chines中文部分==============
 
